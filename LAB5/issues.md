@@ -22,4 +22,4 @@
 
 - **Pylint:** Final score of 10.00/10.
 - **Bandit:** No issues identified in the final scan.
-- **Flake8:** Run the final check and confirm that it produces no output.
+- **Flake8:** Produces no output.
